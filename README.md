@@ -11,6 +11,16 @@ CUHP Events is an online platform made for Chitkara University for booking halls
 - Admin dashboard for managing hall listings and booking requests
 - real-time availability updates using a calendar feature
 
+## Screenshots
+![Portal Image](./screenshots/Screenshot%20(146).png)
+![Portal Image](./screenshots/Screenshot%20(147).png)
+![Portal Image](./screenshots/Screenshot%20(148).png)
+![Portal Image](./screenshots/Screenshot%20(149).png)
+![Portal Image](./screenshots/Screenshot%20(150).png)
+![Portal Image](./screenshots/Screenshot%20(151).png)
+![Portal Image](./screenshots/Screenshot%20(152).png)
+
+
 ## Technologies Used
 
 - React: A popular JavaScript library for building user interfaces

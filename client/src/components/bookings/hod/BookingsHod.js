@@ -107,6 +107,8 @@ const BookingsHod = () => {
         `${process.env.REACT_APP_SERVER_URL}/bookingsEdit/${bookingId}`,
         {
           isApproved: isApproved,
+          rejectionReason:
+            isApproved === "Approved By HOD" ? null : rejectionReason,
         },
         {
           withCredentials: true, // include credentials in the request
